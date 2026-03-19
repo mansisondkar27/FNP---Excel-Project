@@ -7,10 +7,10 @@ Track delivery performance
 Discover seasonal and occasion-based trends
 
 ## Key Metrics
-Total Orders: 1000
-Total Revenue: ₹35,20,984
-Average Customer Spend: ₹3,520.98
-Average Delivery Time: 5.53 days
+Total Orders: 1000,
+Total Revenue: ₹35,20,984,
+Average Customer Spend: ₹3,520.98,
+Average Delivery Time: 5.53 days,
 
 ## Dashboard Insights
 Occasion-Based Sales: Highest revenue from Anniversary and Raksha Bandhan
@@ -27,4 +27,5 @@ Created dynamic reports using Pivot Tables
 Improved data visualization and analytical skills
 
 ## Dashboard Preview
-<a 
+<a href="https://github.com/mansisondkar27/FNP---Excel-Project/blob/main/Screenshot%202024-10-24%20160552%20(1).png">View Dashboard</a>
+
