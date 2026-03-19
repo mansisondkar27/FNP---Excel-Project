@@ -1,2 +1,7 @@
-# FNP---Excel-Project
-This project showcases a Sales Analysis Dashboard built in Microsoft Excel to analyze Ferns &amp; Petals (FNP) sales data. The dashboard provides insights into revenue trends, customer behavior, product performance, and seasonal demand using interactive visuals.
+# Fern and Petals Sales Analysis(Interactive Dashboard creation using MS Excel)
+# Objectives
+Analyze overall sales and revenue performance
+Identify top-performing products and categories
+Understand customer purchasing patterns
+Track delivery performance
+Discover seasonal and occasion-based trends
