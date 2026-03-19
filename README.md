@@ -29,3 +29,6 @@
 ## Dashboard Preview
 <a href="https://github.com/mansisondkar27/FNP---Excel-Project/blob/main/Screenshot%202024-10-24%20160552%20(1).png">View Dashboard</a>
 
+## Conclusion
+This project highlights the ability to analyze sales data using Excel and derive actionable insights to support business decision-making.
+
